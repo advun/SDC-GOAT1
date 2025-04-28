@@ -1,0 +1,5 @@
+C:/Users/23the/Documents/WPI/SDC/same51n_getting_started/_build/getting_started_sam_e51_cnano/sam_e51_cnano/CMakeFiles/getting_started_sam_e51_cnano_sam_e51_cnano_compile.dir
+C:/Users/23the/Documents/WPI/SDC/same51n_getting_started/_build/getting_started_sam_e51_cnano/sam_e51_cnano/CMakeFiles/getting_started_sam_e51_cnano_sam_e51_cnano_sam_e51_cnano.elf.dir
+C:/Users/23the/Documents/WPI/SDC/same51n_getting_started/_build/getting_started_sam_e51_cnano/sam_e51_cnano/CMakeFiles/getting_started_sam_e51_cnano_sam_e51_cnano_Bin2Hex.dir
+C:/Users/23the/Documents/WPI/SDC/same51n_getting_started/_build/getting_started_sam_e51_cnano/sam_e51_cnano/CMakeFiles/edit_cache.dir
+C:/Users/23the/Documents/WPI/SDC/same51n_getting_started/_build/getting_started_sam_e51_cnano/sam_e51_cnano/CMakeFiles/rebuild_cache.dir

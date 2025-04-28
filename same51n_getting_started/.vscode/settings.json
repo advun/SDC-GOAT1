@@ -1,0 +1,8 @@
+{
+    "mplab.clangd.arguments": [
+        "--compile-commands-dir=c:\\Users\\23the\\Documents\\WPI\\SDC\\same51n_getting_started\\_build\\getting_started_sam_e51_cnano\\sam_e51_cnano"
+    ],
+    "mplab.clangd.path": "",
+    "C_Cpp.intelliSenseEngine": "disabled",
+    "cmake.sourceDirectory": "C:/Users/23the/Documents/WPI/SDC/same51n_getting_started/cmake/getting_started_sam_e51_cnano/sam_e51_cnano"
+}

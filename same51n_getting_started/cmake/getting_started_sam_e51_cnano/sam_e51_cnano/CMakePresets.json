@@ -1,0 +1,15 @@
+{
+    "version": 6,
+    "configurePresets": [
+        {
+            "name": "getting_started_sam_e51_cnano_sam_e51_cnano_conf",
+            "binaryDir": "${fileDir}/../../../_build/getting_started_sam_e51_cnano/sam_e51_cnano",
+            "generator": "Ninja",
+            "toolchainFile": "${fileDir}/.generated/toolchain.cmake",
+            "cacheVariables": {
+                "CMAKE_USER_MAKE_RULES_OVERRIDE": "${fileDir}/.generated/overrides.cmake",
+                "CMAKE_EXPORT_COMPILE_COMMANDS": "ON"
+            }
+        }
+    ]
+}
