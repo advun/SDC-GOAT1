@@ -3,13 +3,14 @@
 
   Company:
   SDC
- * CAMERON WILDING WUZ HERE
+ * CAMERON WUZN'T HERE
+ * OCTAVIO was here
 
   File Name:
     main.c
 
   Summary:
- Blink n shit
+ Blink and not blink
 
   Description:
     This file contains the "main" function for a project.  The
