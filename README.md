@@ -32,3 +32,5 @@ TO IMPLEMENT:
 - Data Transmission
 - Sensor Reading
 - Image Storage
+- Power Board Control
+        (Octavio Designed, should be in sharepoint?)
