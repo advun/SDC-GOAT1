@@ -13,17 +13,17 @@ Put in Password: Your GitHub Password
 Clone into your MPLAB folder
 
 To Commit:
-Right Click on project name
-Scroll down to Git
-Hit Commit
-Then, Right Click on project name again
-Mouse over Remote
-Click Push
-Click Specify Git Repository Location
-Change Password to a Access token
-      -Made in GitHub by going to Settings -> Developer Settings -> Personal Access Tokens -> Tokens (Classic).  All you need is REPO access
-Make sure it is committing to the Main Branch
-Check GitHub to make sure it has been committed
+
+1. Right Click on project name
+2. Scroll down to Git
+3. Hit Commit
+4. Then, Right Click on project name again
+5. Mouse over Remote
+6. Click Push
+7. Click Specify Git Repository Location
+8. Change Password to a Access token (Made in GitHub by going to Settings -> Developer Settings -> Personal Access Tokens -> Tokens (Classic).  All you need is REPO access)
+10. Make sure it is committing to the Main Branch
+11. Check GitHub to make sure it has been committed
 
 TO IMPLEMENT:
 - SD Card Storage/Retrieval
