@@ -5,12 +5,12 @@ Using the SAME51J20A chip
 
 Programmed in MPLAB X IDE (Available on AK Lab Computers)
 To Access:
-Go to Team in MPLAB (Top Menu)
-Click Clone
-Put in Repository URL: https://github.com/advun/SDC-GOAT1.git
-Put in User: Your GitHub Username
-Put in Password: Your GitHub Password
-Clone into your MPLAB folder
+1. Go to Team in MPLAB (Top Menu)
+2. Click Clone
+3. Put in Repository URL: https://github.com/advun/SDC-GOAT1.git
+4. Put in User: Your GitHub Username
+5. Put in Password: Your GitHub Password
+6. Clone into your MPLAB folder
 
 To Commit:
 
